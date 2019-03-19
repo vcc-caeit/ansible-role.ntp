@@ -1,5 +1,6 @@
 galaxy_info:
   author: Nafallo Bjälevik
+  role_name: ntp
   description: NTP deployment
   company: Volvo Cars Corporation
   license: GPLv2
