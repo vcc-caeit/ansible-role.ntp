@@ -1,5 +1,5 @@
 Ansible Role: ntp
-=========
+=================
 
 Small role to install and configure NTP, with optional configuration. We plan to support supported Ubuntu LTSes, but at the moment we only support 16.04.
 
@@ -37,7 +37,7 @@ Example Playbook
 
     - hosts: all
       roles:
-        - vcc-caeit.ntp
+        - vcc_caeit.ntp
 
 License
 -------
